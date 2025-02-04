@@ -1,6 +1,6 @@
 # Miro Clone
 
-A collaborative, real-time whiteboard. Packed with features such as real-time database, whiteboard from scratch with ability to add shapes like Rectangles and Ellipses, Sticky notes, and Pencil drawing. Using the newest technologies such as Next.js 14, Clerk, Convex, and LiveBlocks.
+A collaborative, real-time whiteboard. Packed with features such as real-time database, whiteboard from scratch with ability to add shapes like Rectangles and Ellipses, Sticky notes, and Pencil drawing. Using the newest technologies such as Next.js 15, Turbopack, Clerk, Convex, and LiveBlocks.
 
 ## Key Features:
 
